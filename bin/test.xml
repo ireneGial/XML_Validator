@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <title>Wireless Mouse</title>
+        <price>19.99</price>
+        <productLink>http://example.com/mouse</productLink>
+        <productImage>http://example.com/mouse.jpg</productImage>
+        <category>Electronics</category>
+        <weight>200</weight>
+        <shippingCost>3.99</shippingCost>
+    </product>
+    <product>
+        <id>2</id>
+        <title>Mechanical Keyboard</title>
+        <price>49.99</price>
+        <productLink>http://example.com/keyboard</productLink>
+        <productImage>http://example.com/keyboard.jpg</productImage>
+        <category>Electronics</category>
+        <weight>800</weight>
+        <shippingCost>5.99</shippingCost>
+    </product>
+    <product>
+        <id>3</id>
+        <title>Gaming Headset</title>
+        <price>79.99</price>
+        <productLink>http://example.com/headset</productLink>
+        <productImage>http://example.com/headset.jpg</productImage>
+        <category>Electronics</category>
+        <weight>600</weight>
+        <shippingCost>4.99</shippingCost>
+    </product>
+    <product>
+        <id>4</id>
+        <title>USB-C Hub</title>
+        <price>29.99</price>
+        <productLink>http://example.com/usbc-hub</productLink>
+        <productImage>http://example.com/usbc-hub.jpg</productImage>
+        <category>Accessories</category>
+        <weight>150</weight>
+        <shippingCost>2.99</shippingCost>
+    </product>
+    <product>
+        <id>5</id>
+        <title>Portable SSD 1TB</title>
+        <price>99.99</price>
+        <productLink>http://example.com/ssd</productLink>
+        <productImage>http://example.com/ssd.jpg</productImage>
+        <category>Storage</category>
+        <weight>250</weight>
+        <shippingCost>3.99</shippingCost>
+    </product>
+    <product>
+        <id>6</id>
+        <title>Smartphone Stand</title>
+        <price>14.99</price>
+        <productLink>http://example.com/stand</productLink>
+        <productImage>http://example.com/stand.jpg</productImage>
+        <category>Accessories</category>
+        <weight>300</weight>
+        <shippingCost>2.99</shippingCost>
+    </product>
+    <product>
+        <id>7</id>
+        <title>Bluetooth Speaker</title>
+        <price>39.99</price>
+        <productLink>http://example.com/speaker</productLink>
+        <productImage>http://example.com/speaker.jpg</productImage>
+        <category>Electronics</category>
+        <weight>700</weight>
+        <shippingCost>5.99</shippingCost>
+    </product>
+    <product>
+        <id>8</id>
+        <title>Webcam HD 1080p</title>
+        <price>59.99</price>
+        <productLink>http://example.com/webcam</productLink>
+        <productImage>http://example.com/webcam.jpg</productImage>
+        <category>Electronics</category>
+        <weight>400</weight>
+        <shippingCost>4.99</shippingCost>
+    </product>
+    <product>
+        <id>9</id>
+        <title>Ergonomic Office Chair</title>
+        <price>199.99</price>
+        <productLink>http://example.com/chair</productLink>
+        <productImage>http://example.com/chair.jpg</productImage>
+        <category>Furniture</category>
+        <weight>15000</weight>
+        <shippingCost>19.99</shippingCost>
+    </product>
+    <product>
+        <id>10</id>
+        <title>LED Desk Lamp</title>
+        <price>24.99</price>
+        <productLink>http://example.com/lamp</productLink>
+        <productImage>http://example.com/lamp.jpg</productImage>
+        <category>Home</category>
+        <weight>500</weight>
+        <shippingCost>3.99</shippingCost>
+    </product>
+</products>
